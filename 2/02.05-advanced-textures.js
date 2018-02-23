@@ -8,10 +8,10 @@ let width = window.innerWidth, height = window.innerHeight
 
 function init () {
     // scene background
-    sceneBG = new THREE.Scene()
+    const sceneBG = new THREE.Scene()
 
     // scene
-    scene = new THREE.Scene()
+    const scene = new THREE.Scene()
 
     // camera background
     cameraBG = new THREE.OrthographicCamera( -width, width, height, -height, -10000, 10000 );
