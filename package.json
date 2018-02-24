@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csvjson": "^5.0.0",
     "dat.gui": "^0.7.1",
+    "node-fetch": "^2.0.0",
     "stats.js": "^0.17.0",
     "three": "^0.90.0",
     "three-orbit-controls": "^82.1.0"

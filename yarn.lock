@@ -2,9 +2,17 @@
 # yarn lockfile v1
 
 
+csvjson@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/csvjson/-/csvjson-5.0.0.tgz#456df3ceba989d1faa1211bf2adb4a93c91e97d4"
+
 dat.gui@^0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/dat.gui/-/dat.gui-0.7.1.tgz#ff3f27c1029289840700f463748ec26df6269a70"
+
+node-fetch@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.0.0.tgz#982bba43ecd4f2922a29cc186a6bbb0bb73fcba6"
 
 stats.js@^0.17.0:
   version "0.17.0"
